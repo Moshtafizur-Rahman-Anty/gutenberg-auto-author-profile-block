@@ -27,8 +27,6 @@ When building this block, I wanted to keep the code clean and avoid duplicating 
 
 ---
 ### 👨‍💻 About the Developer
-*This repository is part of my 2026 Advanced WordPress Development Portfolio.* 
-
 **Moshtafizur Rahman**  
 WordPress & WooCommerce Developer | Remote European Experience  
 🌐 [View my full portfolio](https://gutenberg.yourname.dev) | 💼 [Upwork Profile](https://upwork.com/fl/moshtafizur) | 🔗 [LinkedIn](https://linkedin.com/in/moshtafizur)

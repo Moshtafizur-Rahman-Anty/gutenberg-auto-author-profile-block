@@ -2,7 +2,7 @@
 
 > A custom Gutenberg block that automatically pulls the post author's data directly from the WordPress database.
 
-[![Watch the Video](https://img.shields.io/badge/YouTube-Watch_How_I_Built_This-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the Video](https://img.shields.io/badge/YouTube-Watch_How_I_Built_This-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=kmzTNDsc1IA)
 
 ## 🏗️ Development Approach
 
@@ -27,7 +27,8 @@ When building this block, I wanted to keep the code clean and avoid duplicating 
 
 ---
 ### 👨‍💻 About the Developer
+*This repository is part of my 2026 Advanced WordPress Development Portfolio.* 
 
 **Moshtafizur Rahman**  
 WordPress & WooCommerce Developer | Remote European Experience  
-🌐 [View my full portfolio](https://gutenberg.yourname.dev) | 💼 [Upwork Profile](YOUR_UPWORK_LINK_HERE) | 🔗 [LinkedIn](YOUR_LINKEDIN_LINK_HERE)
+🌐 [View my full portfolio](https://gutenberg.yourname.dev) | 💼 [Upwork Profile](https://upwork.com/fl/moshtafizur) | 🔗 [LinkedIn](https://linkedin.com/in/moshtafizur)

@@ -1,0 +1,32 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/auto-author-block/style.scss ***!
+  \*********************************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.author-profile-card {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+.author-avatar img {
+  border-radius: 50%; /* Makes the square image a perfect circle */
+}
+.author-name {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 1.5rem;
+}
+.author-bio {
+  margin: 0;
+  color: #555;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
